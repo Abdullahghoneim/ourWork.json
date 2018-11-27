@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "some title",
+    "body": "some body",
+    "url": "http//google.com"
+  },
+  {
+    "id": 2,
+    "title": "some title",
+    "body": "some body",
+    "url": "http//google.com"
+  },
+  {
+    "id": 3,
+    "title": "some title 2",
+    "body": "some body 2",
+    "url": "http//google.com 2"
+  }
+]
